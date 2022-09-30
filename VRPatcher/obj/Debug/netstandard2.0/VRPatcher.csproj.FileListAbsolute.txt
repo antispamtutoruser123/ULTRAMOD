@@ -1,0 +1,10 @@
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\bin\Debug\netstandard2.0\VRPatcher.deps.json
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\bin\Debug\netstandard2.0\VRPatcher.dll
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\bin\Debug\netstandard2.0\VRPatcher.pdb
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.csproj.AssemblyReference.cache
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.AssemblyInfoInputs.cache
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.AssemblyInfo.cs
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.csproj.CoreCompileInputs.cache
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.dll
+C:\Users\jj131\ULTRAKILLMod\VRPatcher\obj\Debug\netstandard2.0\VRPatcher.pdb

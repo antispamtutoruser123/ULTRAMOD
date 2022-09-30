@@ -1,0 +1,16 @@
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\bin\Debug\netstandard2.0\ULTRAVR.deps.json
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\bin\Debug\netstandard2.0\ULTRAVR.dll
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\bin\Debug\netstandard2.0\ULTRAVR.pdb
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\bin\Debug\netstandard2.0\Assembly-CSharp.dll
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\bin\Debug\netstandard2.0\SteamVR.dll
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\bin\Debug\netstandard2.0\UnityEngine.UI.dll
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\obj\Debug\netstandard2.0\ULTRAVR.csproj.AssemblyReference.cache
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\obj\Debug\netstandard2.0\PluginInfo.cs
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\obj\Debug\netstandard2.0\ULTRAVR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\obj\Debug\netstandard2.0\ULTRAVR.AssemblyInfoInputs.cache
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\obj\Debug\netstandard2.0\ULTRAVR.AssemblyInfo.cs
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\obj\Debug\netstandard2.0\ULTRAVR.csproj.CoreCompileInputs.cache
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\obj\Debug\netstandard2.0\ULTRAVR.csproj.CopyComplete
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\obj\Debug\netstandard2.0\ULTRAVR.dll
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\obj\Debug\netstandard2.0\ULTRAVR.pdb
+C:\Users\jj131\ULTRAKILLMod\ULTRAVR\bin\Debug\netstandard2.0\SteamVR_Actions.dll

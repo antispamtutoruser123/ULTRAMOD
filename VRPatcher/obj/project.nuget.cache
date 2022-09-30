@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "blJUd86iNA4s5eWAbKaXKwC+PgSmg/bFHqRPdsmGBfQSi1RVu/mDnL8wabP8sZTs4Q28SRMRMDy4U1ZiwGa4YA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jj131\\ULTRAKILLMod\\VRPatcher\\VRPatcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jj131\\.nuget\\packages\\assetstools.net\\2.0.12\\assetstools.net.2.0.12.nupkg.sha512",
+    "C:\\Users\\jj131\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jj131\\.nuget\\packages\\mono.cecil\\0.11.3\\mono.cecil.0.11.3.nupkg.sha512",
+    "C:\\Users\\jj131\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

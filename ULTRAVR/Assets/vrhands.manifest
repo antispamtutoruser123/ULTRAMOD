@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 3130602296
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07f05fa7008fdd5c9eeffd60ad0a01b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 67e6358a6c833a88413edc2c3e370151
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e90911e410742a1498a167540c7865bf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00f6c0d7b5a00aa4a8d38a09a0480032, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e7418c7dd8f977d4e969202d3fa7e926, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/SteamVR/Prefabs/vr_glove_right_model_slim.prefab
+- Assets/SteamVR/Prefabs/vr_glove_left_model_slim.prefab
+Dependencies: []

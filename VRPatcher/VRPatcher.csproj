@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AssetsTools.NET" Version="2.0.12" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="AssetsTools.NET">
+      <HintPath>D:\SteamLibrary\steamapps\common\ULTRAKILL Demo\BepInEx\patchers\AssetsTools.NET.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
